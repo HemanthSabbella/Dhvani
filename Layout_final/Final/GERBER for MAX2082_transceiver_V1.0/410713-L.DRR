@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 410713-L.PcbDoc   02-Nov-19  1:13:01 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 410713-L.TXT
+ASCII RectHoles File : 410713-L-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T4      0.1mm (4mil)                                              Round             251       PTH        400.82mm (15.78inch)
+T5      0.3mm (12mil)                                             Round             788       PTH        3213.07mm (126.50inch)
+T6      0.6mm (24mil)                                             Round             260       PTH        421.63mm (16.60inch)
+T7      1mm (39mil)                                               Round             4         PTH        19.88mm (0.78inch)
+T8      1mm (39mil)                                               Rectangle         3         PTH        27.68mm (1.09inch)
+T9      1.1mm (43mil)                                             Round             112       PTH        880.45mm (34.66inch)
+T10     1.2mm (47mil)                                             Round             21        PTH        131.05mm (5.16inch)
+T11     1.5mm (59mil)                                             Round             8         PTH        362.89mm (14.29inch)
+T1      1.27mm (50mil)                                            Round             2         NPTH       54.47mm (2.14inch)
+T2      3mm (118mil)                                              Round             4         NPTH       587.00mm (23.11inch)
+T3      3.15mm (124mil)                                           Round             4         NPTH       88.00mm (3.46inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1457
+
+Total Processing Time (hh:mm:ss) : 00:00:00

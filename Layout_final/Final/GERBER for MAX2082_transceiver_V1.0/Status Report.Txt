@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [MAX2082_transceiver_V1.0.PrjPcb]
+   Generated File[Pick Place for 410713-L.txt]
+   Generated File[Pick Place for 410713-L.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 1:13:27 PM On 02-Nov-19
